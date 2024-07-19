@@ -13,7 +13,7 @@
 import (
 	"context"
 
-	didagle "github.com/yinqiwen/didagle/go"
+	didagle "github.com/logoc/godag"
 )
 
 type testOutStruct struct{
